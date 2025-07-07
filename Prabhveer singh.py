@@ -3,7 +3,7 @@ import requests
 import json
 
 st.set_page_config(page_title="Text 2 Img by PS333", page_icon="🧠", layout="centered")
-st.image("https://i.ibb.co/5Wp2sxxn/1000319964-removebg-preview.png", width=250)
+st.image("<a href="https://ibb.co/tTDh2k6D"><img src="https://i.ibb.co/hJVMdhNV/Photo-Fixer-Bot-aifaceswap-dac4ce0cdd00acf259c01808d4253130.jpg" alt="Photo-Fixer-Bot-aifaceswap-dac4ce0cdd00acf259c01808d4253130" border="0"></a>", width=250)
 st.title("🔥 PS333 Image Generator 🔥")
 
 prompt = st.text_input("Enter your prompt", placeholder="E.g. A cyberpunk city at night")
